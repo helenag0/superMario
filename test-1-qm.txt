@@ -1,0 +1,23 @@
+M
+3
+5
+//sample M mode input file with three 5x5 rooms
+//castle room 0
+.#..!
+...1#
+...S.
+#..#.
+.....
+//castle room 1
+.....
+#.C..
+.!..!
+#...#
+...#.
+//castle room 2
+.....
+#.!..
+.!...
+.....
+...#.
+

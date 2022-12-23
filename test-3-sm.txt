@@ -1,0 +1,12 @@
+M
+2
+3
+// A map with no solution
+//castle room 0
+S#.
+.#!
+...
+//castle room 1
+C!#
+#..
+..!

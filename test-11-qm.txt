@@ -1,0 +1,29 @@
+M
+5
+4
+//M mode input file w/ five 4x4 rooms
+//castle room 0
+.S..
+....
+...1
+#.1#
+//castle room 1
+4...
+#...
+.!..
+#.2.
+//castle room 2
+.3.!
+#...
+.!..
+#.0.
+//castle room 3
+.!..
+#...
+.!..
+#.4.
+//castle room 4
+C...
+#...
+.!.!
+#...
